@@ -1,7 +1,7 @@
 # Welcome to Robotics Club Family
 **Important Note**: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-## Course Describtion
+## Course Description
 Mechanical design is considered to be the backbone of the robotics systems. So, in order to validate our mechanical design, we need to investigate the stresses applied to the design and the kinematics analysis of desired mechanisms. Autodesk Fusion 360 provide us with required tools for mechanical design. So, by end of this course you will be able to sketch and build and body, structure or component in your environment. After this course, you will be ready and have a solid base to enhance your skills and learn assembly and required simulation analysis. 
 
 ## Course Content

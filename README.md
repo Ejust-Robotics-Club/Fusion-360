@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Welcome to Robotics Club Family
+**Important Note**: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-You can use the [editor on GitHub](https://github.com/Ejust-Robotics-Club/Fusion-360/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Course Describtion
+Mechanical design is considered to be the backbone of the robotics systems. So, in order to validate our mechanical design, we need to investigate the stresses applied to the design and the kinematics analysis of desired mechanisms. Autodesk Fusion 360 provide us with required tools for mechanical design. So, by end of this course you will be able to sketch and build and body, structure or component in your environment. After this course, you will be ready and have a solid base to enhance your skills and learn assembly and required simulation analysis. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Course Content
 
-### Markdown
+1. Navigaion through Fusion 360 Environment 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. 2D-sketch
 
-```markdown
-Syntax highlighted code block
+3. Extrude
 
-# Header 1
-## Header 2
-### Header 3
+4. Cut-Extrude 
 
-- Bulleted
-- List
+5. Sketch Dimension & Set Constraints
 
-1. Numbered
-2. List
+6. Appearance
 
-**Bold** and _Italic_ and `Code` text
+7. Construction Lines 
+  
+8. Sketch Filets 
 
-[Link](url) and ![Image](src)
-```
+9. Patterns
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+10. Mirror Feature
 
-### Jekyll Themes
+11. Offset Planes & Mid-Planes 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ejust-Robotics-Club/Fusion-360/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+12. Loft Feature 
 
-### Support or Contact
+13. Hole Feature 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+14. Chamfer Tool 
+
+15. Draft Feature 
+
+16. Press Pull Feature 
+
+17. Revolve Feature 
+
+18. Sweep Feature 
+
+19. Creating Threads 
+
+20. Reference Image & Fit point Spline
+
+21. Create Text 
+
+22. Components vs Bodies 
+
+23. Box, Cylinder, Pipe and Sphere Features
+
+24. Importing and Exporting Sketches
+## Course Instructors
+
+  
+Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).

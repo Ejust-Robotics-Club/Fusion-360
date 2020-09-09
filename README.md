@@ -53,7 +53,7 @@ Mechanical design is considered to be the backbone of the robotics systems. So, 
 23. Box, Cylinder, Pipe and Sphere Features
 
 24. Importing and Exporting Sketches
-## Course Instructors
 
+The content will be uploaded when courses are launched
   
 Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
